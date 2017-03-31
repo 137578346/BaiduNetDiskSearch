@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BaiduPanSerach/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BaiduPanSerach" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/jar包/javaEE基础/jstl/jakarta-taglibs-standard-1.1.2/lib/standard.jar" />
+          <element id="file-copy" path="E:/jar包/javaEE基础/jstl/jakarta-taglibs-standard-1.1.2/lib/jstl.jar" />
+          <element id="file-copy" path="E:/jar包/javaEE基础/jstl/jakarta-taglibs-standard-1.1.2/standard-doc.war" />
+          <element id="file-copy" path="E:/jar包/javaEE基础/jstl/jakarta-taglibs-standard-1.1.2/standard-examples.war" />
+          <element id="file-copy" path="E:/jar包/java工具类/junit4/Junit/junit-4.11.jar" />
+          <element id="file-copy" path="E:/jar包/java工具类/junit4/Junit/hamcrest-core-1.3.jar" />
+          <element id="file-copy" path="E:/jar包/javascript/AJAX/json/json-lib-2.4-jdk15.jar" />
+          <element id="file-copy" path="E:/jar包/javascript/AJAX/json/commons-collections-3.2.1.jar" />
+          <element id="file-copy" path="E:/jar包/javascript/AJAX/json/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="E:/jar包/javascript/AJAX/json/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="E:/jar包/javascript/AJAX/json/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="E:/jar包/javascript/AJAX/json/commons-lang-2.5.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
